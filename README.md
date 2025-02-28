@@ -2,7 +2,7 @@
 This repository contains a two-layered classification neural network developed from scratch using JAX.
 
 The objective of this mini-project was to develop a Classification Neural Network from Scratch using JAX. I achieved this through the following steps:
-Step 1: Defined the Neural Network Architecture
+Step 1: Defined the Neural Network Architecture  
 Step 2: Initialized Weights and Biases
 Step 3: Implemented the Forward Pass
 Step 4: Defined the Loss Function
